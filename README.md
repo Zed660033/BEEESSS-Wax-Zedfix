@@ -8,10 +8,14 @@ Follow this section as a guide to attribute the author and contributors to the p
 
 [Contributors](https://gitgud.io/GTXMEGADUDE/papa-paril-burger-joint/-/blob/master/README.md#on-going-projects)
 
-> BEEESSS Wax
+> Author:  
+> The Immortal Heavenly-Ascended Sword God Paril  
 >
-> - jackeloko (Jacko) for the BEEESSS feet edit.
-> - squirtacus for the thigh and vag**a edit.
+> Contributors:  
+> BEEESSS Wax  
+>
+> - jackeloko (Jacko) for the BEEESSS feet edit.  
+> - squirtacus for the thigh and vag**a edit.  
 
 Thanks for your work.  
 感谢你们的付出  
