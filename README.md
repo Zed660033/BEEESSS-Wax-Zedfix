@@ -1,6 +1,6 @@
 # BEEESSS-Wax-Zedfix
 
-基于 Paril 的 BEEESSS Wax 修改，重新绘制了最大形态的“那个东西”，并添加了童贞差分。
+基于 Paril 的 [BEEESSS Wax](https://gitgud.io/GTXMEGADUDE/beeesss-wax) 修改，重新绘制了最大形态的“那个东西”，并添加了童贞差分。
 
 # Credits
 
@@ -19,3 +19,6 @@ Follow this section as a guide to attribute the author and contributors to the p
 
 Thanks for your work.  
 感谢你们的付出  
+
+Original Repository: <https://gitgud.io/GTXMEGADUDE/beeesss-wax>  
+原仓库：<https://gitgud.io/GTXMEGADUDE/beeesss-wax>  
